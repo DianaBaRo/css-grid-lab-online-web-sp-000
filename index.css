@@ -21,4 +21,7 @@ body {
 /* add the .bigItem class Adding Grid Properties to Child Elements */
 .bigItem {
   grid-area: 2 / 2 / 4 / 4;
+  height: 50%;
+  width: 50%;
+  justify-self: center;
 }
